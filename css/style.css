@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+.hide {
+    display: none;
+  }
+  
+  #modal {
+    position: absolute;
+    background-color: lightblue;
+    width: 505px;
+    padding: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  
